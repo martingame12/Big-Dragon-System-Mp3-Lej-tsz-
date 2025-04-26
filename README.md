@@ -3,7 +3,7 @@ Ez egy ingyenes projekt, bárki számára elérhető és szabadon használható.
 
 # 🐉 Big-Dragon System MP3 Lejátszó 🐉
 
-## Készítette: \-MARTIN-/ 🐉
+## Készítette:       \-MARTIN-/ 🐉
 
 Ez egy ingyenes, nyílt forráskódú MP3 lejátszó projekt, amelyet \-MARTIN-/ fejlesztett. A projekt célja, hogy könnyen használható és stílusos MP3 lejátszót biztosítson a felhasználók számára. Az alkalmazás egyszerűsíti az MP3 fájlok lejátszását és egy sor hasznos funkcióval rendelkezik, például hangerő- és lejátszási sebesség beállítással, valamint a zenék ismétlésének vezérlésével.
 
